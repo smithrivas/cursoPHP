@@ -1,1 +1,1 @@
-05.Programación Orientada a Objetos
+06.PDO y SQL
